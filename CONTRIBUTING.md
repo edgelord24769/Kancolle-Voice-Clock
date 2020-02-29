@@ -1,1 +1,1 @@
-FREE TO USE FOR ANYONE!
+Xiangpu Chen for base implementation
