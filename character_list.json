@@ -10,5 +10,45 @@
     {
         "Name": "Yamato",
         "Index": 2
+    },
+    {
+        "Name": "Akashi",
+        "Index": 3
+    },
+    {
+        "Name": "Kangou",
+        "Index": 4
+    },
+    {
+        "Name": "Haruna",
+        "Index": 5
+    },
+    {
+        "Name": "Hiei",
+        "Index": 6
+    },
+    {
+        "Name": "Saratoga",
+        "Index": 7
+    },
+    {
+        "Name": "Ooi",
+        "Index": 8
+    },
+    {
+        "Name": "Prinz Eugen",
+        "Index": 9
+    },
+    {
+        "Name": "Hibiki",
+        "Index": 10
+    },
+    {
+        "Name": "Yuudachi",
+        "Index": 11
+    },
+    {
+        "Name": "Harukaze",
+        "Index": 12
     }
 ]
