@@ -5,7 +5,9 @@ I do not own any of the sound files or any of the arts in this project. All righ
 
 You can exit the program by clicking exit or right click the icon in system stray.
 
-Characters:
+If you need any assistance or request for additional characters, please email xxconniec@gmail.com
+
+Characters implemented:
 -Fubiki
 -Kirishima
 -Yamato
