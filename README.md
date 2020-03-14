@@ -25,3 +25,4 @@ Characters implemented:
 -Hibiki
 -Yuudachi
 -Harukaze
+-Suzuka
